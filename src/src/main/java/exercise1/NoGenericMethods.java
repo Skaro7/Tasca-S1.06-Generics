@@ -24,8 +24,8 @@ public class NoGenericMethods {
     }
 
     public void printElements() {
-        System.out.println("Element 1: " + element1);
-        System.out.println("Element 2: " + element2);
-        System.out.println("Element 3: " + element3);
+        System.out.println("Element 1: " + element1 +
+                "\nElement 2: " + element2 +
+                "\nElement 3: " + element3);
     }
 }
